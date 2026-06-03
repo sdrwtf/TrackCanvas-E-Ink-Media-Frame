@@ -33,6 +33,6 @@ A clear and concise description of what you expected to happen (e.g., "The E-Ink
 Please check the `logs/app.log` file on your server and paste any relevant ERROR or WARNING outputs here:
 ```text
 [Paste logs here]
-````
+```
 **Additional context**
 Add any other context about the problem here (e.g., changes made to `.env`).
